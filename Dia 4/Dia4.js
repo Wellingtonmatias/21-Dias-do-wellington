@@ -1,6 +1,6 @@
 // SOLICITANDO INFORMAÇÕES AO USUÁRIO
 
-let temFome = prompt("voê está com fome ? (s/n)");
+let temFome = prompt("você está com fome ? (s/n)");
 let temDinheiro = prompt("você tem dinheiro ? (s/n)");
 let restauranteAberto = prompt("o restaurante está aberto ? (s/n)");
 
